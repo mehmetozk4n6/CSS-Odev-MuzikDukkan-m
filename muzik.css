@@ -1,0 +1,18 @@
+body{
+    list-style-position: inside;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    color: red;
+}
+h2{
+    color: purple;
+}
+h3{
+    color: sandybrown;
+}
+img{
+    width: 600px;
+    height: 400px;
+}
